@@ -1,4 +1,4 @@
-# csv2db - Create a database table from a CSV file.
+# csv2db - Create a database tables from CSV files.
 ## Description
 
 This is a Python script that converts a “properly structured” CSV file to a Postgres database table.
