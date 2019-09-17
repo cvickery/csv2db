@@ -9,7 +9,7 @@ The CSV file has to have a heading row in which each column name turns into a va
 ```
 csv2db.py -f CSVfile123.csv
 ```
-- Create a table named _csvfile_ in the databse with the same name as the user’s username.)
+- Create a table named _csvfile_ in the databse with the same name as the user’s username.
 ```
 csv2db.py -p id region -t regions -db accounts < csvfile.csv
 ```
